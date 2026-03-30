@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+outputs/models/
+outputs/plots/
+outputs/predictions/
+data/raw_daily.csv
+data/features_daily.csv
+data/predict_today_input.csv
+.DS_Store
